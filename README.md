@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Swaraj 🚀
 
 
-🎓 Engineering Student | 💻 Developer | 🎮 Game Dev Explorer | 🎬 Video Editing  
+🎓 Engineering Student | 💻 Developer | 🎮 Game Development Explorer | 🎬 Video Editing  
 
 ### ⚡ *"Learn. Build. Break. Repeat."*
 
