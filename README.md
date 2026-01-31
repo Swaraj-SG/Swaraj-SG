@@ -1,7 +1,7 @@
-# 👋 Hello there, I'm Swaraj 🚀
+# Hello there, I'm Swaraj 🚀
 
 
-🎓 Engineering Student | 💻 Developer | 🎮 Game Development Explorer | 🎬 Video Editing  
+🎓 Engineering Student | 💻 Coding | 🎮 Game Development Explorer | 🎬 Video Editing  
 
 ### ⚡ *"Learn. Build. Break. Repeat."*
 
@@ -30,6 +30,7 @@ I enjoy building things, breaking them, and rebuilding them better ⚡
 - 📐 **AutoCAD** – Basics
 - 🎬 **DaVinci Resolve** – Professional-level editing
 - 🖥️ **Git & GitHub**
+- 👀 *Blender - Currently Learning* 😁
 
 ### 🎮 Game Development
 - 🧩 **Unreal Engine** & **Unity Engine**
