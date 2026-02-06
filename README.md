@@ -9,7 +9,7 @@ I'm a tech-driven creator who loves **coding, game development, and cinematic ga
 I enjoy building things, breaking them, and rebuilding them better ⚡
 
 ### Instagram Profile Links :
- Instagram (Self) - [g_swaraj__](https://www.instagram.com/g_swaraj__)
+ Instagram (Self/Personal) - [g_swaraj__](https://www.instagram.com/g_swaraj__)
  
  Instagram (Editing Account) - [asalamwhileucum](https://www.instagram.com/asalamwhileucum)
  
