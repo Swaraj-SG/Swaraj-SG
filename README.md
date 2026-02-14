@@ -40,7 +40,7 @@ I enjoy building things, breaking them, and rebuilding them better ⚡
 ## 🎥 Content Creation & Editing
 
 - 🎮  **Elite-level** gaming reels
-- 📸 Separate **Instagram page** for high-end gaming edits - Page Link is mentioned above.
+- 📸 Separate **Instagram page** for skilled gaming edits - Page Link is mentioned above.
 - 🎯 Focused on cinematic & impactful visuals
 
 ---
