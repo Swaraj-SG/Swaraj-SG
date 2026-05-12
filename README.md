@@ -8,18 +8,12 @@
 I'm a tech-driven creator who loves **coding, game development, and cinematic gaming edits**.  
 I enjoy building things, breaking them, and rebuilding them better ⚡
 
-### Instagram Profile Links :
- Instagram (Self/Personal) - [g_swaraj__](https://www.instagram.com/g_swaraj__)
- 
- Instagram (Editing Account) - [asalamwhileucum](https://www.instagram.com/asalamwhileucum)
- 
-
 ---
 
 ## 🧠 Tech Stack & Skills
 
 ### 💻 Programming Languages
-- 🟢 **C** & **C++**   
+- 🟢 **C** & **C++**
 - 🔵 **HTML** & **CSS**
 - ❗ *Javascript - Curently learning* 😅
 - 🐍 **Python**
@@ -40,7 +34,7 @@ I enjoy building things, breaking them, and rebuilding them better ⚡
 ## 🎥 Content Creation & Editing
 
 - 🎮  **Cinematic-level** gaming reels
-- 📸 Separate **Instagram page** for skilled gaming edits - *Page Link is mentioned above.*
+- 📸 Separate **Instagram page** for skilled gaming edits : Instagram - [asalamwhileucum](https://www.instagram.com/asalamwhileucum)
 - 🎯 Focused on cinematic & impactful visuals
 
 ---
