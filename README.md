@@ -50,7 +50,7 @@ I enjoy building things, breaking them, and rebuilding them better ⚡
 
 ## 🌱 Future Goals
 - 🧑‍💻 Become a strong **Software** & **Game Developer**
-- 🎮 Try to build a fully playable game
+- 🎮 To build and publish a fully playable game
 - 🤖 Work with AI & automation
 - 💼 Create tools that actually help people
 
